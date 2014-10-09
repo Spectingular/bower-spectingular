@@ -1,6 +1,6 @@
 {
     "name": "bower-spectingular",
-    "version": "0.1.0-build.89+sha.5243c16",
+    "version": "0.1.0-build.91+sha.86649c1",
     "main": "./spectingular.js",
     "dependencies": {
         "angular": "~1.2.6"
